@@ -32,5 +32,15 @@ In order to generate Articles we render them dynamically where we map each item 
 
 On our first run in the Terminal window we run the npm start command which will allocate us a port in the server to run the API. The console continues running until there are any chnages made in after saving the file it continues to run the console
 
+## Console Output
+
+Below is the output of my web App when running the NY Times API . Also Added some Styling for presentation purposes
+
+![Screen Shot 2021-06-29 at 12 39 01 AM](https://user-images.githubusercontent.com/60769525/123712407-8d188d80-d872-11eb-903c-664c6b795561.png)
+
+Upon Clicking the Read more link the user is redirected to the actual full Article as shown below
+
+![Screen Shot 2021-06-29 at 12 39 01 AM](https://user-images.githubusercontent.com/60769525/123712562-d79a0a00-d872-11eb-853c-be231e778497.png)
+
 
 
