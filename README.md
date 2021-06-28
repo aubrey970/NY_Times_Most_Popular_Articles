@@ -1,4 +1,4 @@
-![IMG_20200426_130804](https://user-images.githubusercontent.com/60769525/123710894-cac7e700-d86f-11eb-993d-03881120199b.jpg)
+
 # Implementing  a responsive web app with Reactjs
 
 A brief description of how the code and the test can be run and how most popular articles can be generated
@@ -31,4 +31,6 @@ In order to generate Articles we render them dynamically where we map each item 
 **Testing & Running**
 
 On our first run in the Terminal window we run the npm start command which will allocate us a port in the server to run the API. The console continues running until there are any chnages made in after saving the file it continues to run the console
+
+
 
