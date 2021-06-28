@@ -40,7 +40,8 @@ Below is the output of my web App when running the NY Times API . Also Added som
 
 Upon Clicking the Read more link the user is redirected to the actual full Article as shown below
 
-![Screen Shot 2021-06-29 at 12 39 01 AM](https://user-images.githubusercontent.com/60769525/123712562-d79a0a00-d872-11eb-853c-be231e778497.png)
+![Screen Shot 2021-06-29 at 12 41 46 AM](https://user-images.githubusercontent.com/60769525/123712615-fbf5e680-d872-11eb-9444-215d337f9940.png)
+
 
 
 
