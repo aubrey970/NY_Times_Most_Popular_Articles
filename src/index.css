@@ -1,0 +1,28 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  background-color: #eeeeee;
+  
+}
+h1{
+  color: aliceblue;
+}
+.showcase{
+  background: url('https://images.pexels.com/photos/265642/pexels-photo-265642.jpeg?auto=compress&cs=tinysrgb&h=650&w=940') no-repeat center/cover;
+  height: 400px;
+}
+.showcase .overlay{
+  background-color: rgba(0, 0, 0, 0.4);
+  height:t 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.stories{
+  background-color: aliceblue;
+  
+}
+
+

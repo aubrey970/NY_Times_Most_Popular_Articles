@@ -1,2 +1,5 @@
-# NY_Times_Most_Popular_Articles
-a simple responsive web app with ReactJs to hit the NY Times Most Popular Articles API and show a list of articles.
+# Implementing  a responsive web app with Reactjs
+
+A brief description of how the code and the test can be run and how most popular articles can be generated
+
+## System Requirements
