@@ -11,3 +11,6 @@ A brief description of how the code and the test can be run and how most popular
 *Visual Studio Code IDE 
 
 *ReactJs
+
+## Getting Started
+
