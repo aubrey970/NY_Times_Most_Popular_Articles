@@ -42,6 +42,6 @@ Upon Clicking the Read more link the user is redirected to the actual full Artic
 
 ![Screen Shot 2021-06-29 at 12 41 46 AM](https://user-images.githubusercontent.com/60769525/123712615-fbf5e680-d872-11eb-9444-215d337f9940.png)
 
-
+Author : Tsotlhe Aubrey Basimanebotlhe
 
 
